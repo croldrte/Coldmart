@@ -1,19 +1,31 @@
-# video-aulas
-Projeto desenvolvido durante as aulas do curso técnico em Informática para Internet do [SENAI-MG](https://www.fiemg.com.br/senai/), com a proposta de criar um site simples utilizando Bootstrap. O objetivo da atividade foi desenvolver melhores práticas de desenvolvimento, simulando um ambiente colaborativo com uso de Git para versionamento contínuo, reforçando a importância de *commits* frequentes e eficazes para o gerenciamento de código.
+<div align="center">
+  <h1>Coldmart</h1>
+  <p>Projeto de site para a plataforma de cursos online fictícia Coldmart, desenvolvido com HTML, CSS e Bootstrap.</p>
+  <a href="https://croldrte.github.io/Coldmart/">
+    <p>「 Live Demo 」</p>
+  </a>
+</div>
 
-## Recursos utilizados
--  **Linguagens**: HTML5, CSS3 e JavaScript
+## Conteúdo
+1. [Introdução](#introdução)
+2. [Tecnologias utilizadas](#tecnologias-utilizadas)
+3. [Estrutura](#estrutura)
+4. [Captura de tela](#captura-de-tela)
+
+## Introdução
+Este repositório contém o projeto desenvolvido para uma atividade do curso técnico em Informática para Internet do [SENAI-MG](https://www.fiemg.com.br/senai/), no qual foi criado um site para a plataforma de cursos online fictícia Coldmart. O objetivo principal não foi a criação de um site completamente funcional, mas sim a implementação de um modelo estrutural básico de site, com a aplicação de conceitos e boas práticas relacionadas ao versionamento de código.
+
+## Tecnologias utilizadas
+-  **Linguagens**: HTML5 e CSS3
 -  **Framework:** Bootstrap 5.3.3
 -  **IDE**: Visual Studio Code
 -  **Versionamento:** GIT
 -  **Gestão de repositórios:** GitHub
 
-## Etapas implementadas
-- [x] Adicionar links do Bootstrap
-- [x] Adicionar uma barra de menu no `header`
-- [x] Criar um *container* com quatro *cards* no `main`
-- [x] Criar o `footer` com links úteis e formulário de inscrição para a *newsletter*
+## Estrutura
+- **Menu de navegação**: Logo da marca, links úteis e botões de ação.
+- **Cursos populares**: Seção de cursos em destaque com cards interativos.
+- **Rodapé**: Links úteis, newsletter e redes sociais.
 
-## Backlog
-- [ ] Criar páginas HTML correspondentes aos links presentes na *home*
-- [ ] Incluir validação e feedback simulados no formulário da *newsletter*
+## Captura de tela
+![Preview da página principal](img/preview.png)
